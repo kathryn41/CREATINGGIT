@@ -1,0 +1,2 @@
+# CREATINGGIT
+trying out github
